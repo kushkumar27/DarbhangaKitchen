@@ -1,0 +1,22 @@
+#searchmenu{
+	display: grid;
+	grid-template-columns: auto auto;
+}
+#toogle{
+	display:grid;
+	padding: 10px;
+
+}
+#veg-checkbox{
+	color:green;
+	
+
+}
+#nonveg-checkbox{
+	color:red;
+	
+}
+#search{
+	padding:15px;
+	align-content: end;
+}

@@ -1,0 +1,3 @@
+C:\Users\abhishek kumar\source\repos\DarbhangaKitchenBackend\DarbhangaKitchenBackend\obj\Debug\DarbhangaKitchenBackend.njsproj.AssemblyReference.cache
+C:\Users\abhishek kumar\source\repos\DarbhangaKitchenBackend\DarbhangaKitchenBackend\obj\Debug\DarbhangaKitchenBackend.njsproj.CoreCompileInputs.cache
+C:\Users\abhishek kumar\source\repos\DarbhangaKitchenBackend\DarbhangaKitchenBackend\bin\Microsoft.NodejsTools.WebRole.dll

@@ -1,0 +1,63 @@
+.home {
+  padding: 20px;
+}
+
+#home-title {
+  display: grid;
+  justify-content: center;
+  font-family: "Festive", cursive;
+  font-size: 3em;
+  text-decoration: underline;
+}
+.home-items {
+  padding-top: 15px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-row-gap: 15px;
+}
+#home-message-id {
+  display: grid;
+  justify-content: center;
+  margin-top: 30px;
+  background-color: rgb(83, 147, 212);
+
+}
+#message {
+  padding: 10px;
+  font-style: italic;
+  color:rgb(237, 245, 244);
+  font-weight: bold;
+}
+iframe {
+  border: 1;
+}
+.home-about-restra {
+  margin-top: 15px;
+  font-size: 1.6em;
+}
+.home-newsletter {
+  margin-top: 15px;
+  display: grid;
+  justify-content: center;
+}
+#newsletter-box {
+  display: grid;
+  grid-row-gap: 10px;
+}
+#newsletter-head {
+  font-size: 1.93em;
+  color: blue;
+  font-style: italic;
+}
+#newsletter-phone {
+  font-style: bold;
+  font-size: 1.3em;
+}
+#newsletter-button {
+  display: grid;
+  justify-content: center;
+}
+.home-about-restra{
+  justify-content: center;
+  display: grid;
+}

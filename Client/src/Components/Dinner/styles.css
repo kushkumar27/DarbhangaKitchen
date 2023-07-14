@@ -1,0 +1,14 @@
+.search-toogle{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 5px;
+	display: grid;
+}
+.menu-toppicks{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 5px;
+	display: grid;
+	grid-template-columns:auto auto auto auto;
+	grid-row-gap: 10px;
+}

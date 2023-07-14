@@ -1,0 +1,27 @@
+.orderSummary{
+	display: grid;
+	justify-content: center;
+
+}
+#order-table{
+	padding:15px;
+	font-size: 1.5em;
+}
+table, th, td {
+  border:1px solid black;
+}
+.contact{
+	display: grid;
+	grid-template-rows: auto auto auto;
+	grid-row-gap: 10px;
+	padding:10px;
+}
+.contact-items{
+	display: grid;
+	grid-template-columns: auto auto;
+}
+#orderNowButton{
+	padding: 10px;
+	display: grid;
+	justify-content: center;
+}
